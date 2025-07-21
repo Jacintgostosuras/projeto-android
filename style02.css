@@ -146,6 +146,8 @@ footer {
     text-align: center;
     color: white;
     padding: 10px;
+    margin: auto;
+
 }
 .lista {
     display: flex;
